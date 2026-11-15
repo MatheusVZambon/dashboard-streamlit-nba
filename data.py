@@ -10,7 +10,7 @@ import numpy as np
 # Atribuição dos csvs em dataframes
 dfPlayers = pd.read_csv("datasets/playerStats.CSV")
 dfTeams = pd.read_csv("datasets/teamStats.CSV")
-dfShots = pd.read_csv("datasets/NBA_2025_Shots.CSV")
+dfShots = pd.read_csv("datasets/NBA_2025_Shots.csv")
 
 # Ajustes nas tabelas
 dfTeams = dfTeams.drop(columns=['Unnamed: 18','Unnamed: 23','Unnamed: 28'])
