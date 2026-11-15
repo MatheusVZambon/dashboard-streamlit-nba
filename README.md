@@ -29,10 +29,10 @@ Além disso, busca explorar como a análise de dados pode contribuir para a inte
 
 ## 📸 Demonstração
 
-![Dashboard](screenshots/ss1.png)
-![Dashboard](screenshots/ss2.png)
-![Dashboard](screenshots/ss3.png)
-![Dashboard](screenshots/ss4.png)
+![Dashboard](screenshot/ss1.png)
+![Dashboard](screenshot/ss2.png)
+![Dashboard](screenshot/ss3.png)
+![Dashboard](screenshot/ss4.png)
 
 ---
 
